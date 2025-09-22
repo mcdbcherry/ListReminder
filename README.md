@@ -40,7 +40,5 @@ List Reminderは読み込んだタスクリストに設定されている担当�
 
 メール送付にはOutlookを使用します。リマインダーは担当者ごとに送付されます。
 
-※デスクトップ版Outlookではアプリの仕様上、下書きが表示されない場合があります。この時はMicrosoft 365版OutlookやiPhone/iPad/Androidで下書きを確認するのが早いです。
-
 メールのサンプル：
 <img width="940" height="417" alt="image" src="https://github.com/user-attachments/assets/cd972830-b2b6-4fc7-9499-91a370f25b58" />
